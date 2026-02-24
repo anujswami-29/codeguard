@@ -1,0 +1,21 @@
+[2026-02-24 22:47:04,041] [CodeGuardAgent] INFO: CodeGuard main agent initialized
+[2026-02-24 22:47:08,926] [IntentParser] INFO: Parsing instruction: 'Add a docstring to workspace/src/utils/string_utils.py'
+[2026-02-24 22:47:09,956] [IntentParser] WARNING: API parse failed ("Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"), using heuristic parser
+[2026-02-24 22:47:09,960] [Executor] INFO: Executing approved intent: add_docstring on workspace/src/utils/utils.py
+[2026-02-24 22:47:13,609] [IntentParser] INFO: Parsing instruction: 'Fix style in workspace/src/helpers/validators.py'
+[2026-02-24 22:47:13,956] [IntentParser] WARNING: API parse failed ("Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"), using heuristic parser
+[2026-02-24 22:47:13,960] [Executor] INFO: Executing approved intent: edit on workspace/src/helpers/helpers.py
+[2026-02-24 22:47:16,425] [IntentParser] INFO: Parsing instruction: 'Edit workspace/protected/config.py'
+[2026-02-24 22:47:16,780] [IntentParser] WARNING: API parse failed ("Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"), using heuristic parser
+[2026-02-24 22:47:21,009] [IntentParser] INFO: Parsing instruction: 'Delete workspace/src/utils/math_utils.py'
+[2026-02-24 22:47:21,314] [IntentParser] WARNING: API parse failed ("Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"), using heuristic parser
+[2026-02-24 22:47:22,706] [IntentParser] INFO: Parsing instruction: 'Read workspace/src/core/main.py'
+[2026-02-24 22:47:23,030] [IntentParser] WARNING: API parse failed ("Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"), using heuristic parser
+[2026-02-24 22:47:31,517] [DelegateAgent] INFO: Delegate agent 'docstring-bot-v1' spawned with scope: workspace/src/utils
+[2026-02-24 22:47:31,517] [IntentParser] INFO: Parsing instruction: 'Read workspace/src/utils/math_utils.py'
+[2026-02-24 22:47:31,860] [IntentParser] WARNING: API parse failed ("Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"), using heuristic parser
+[2026-02-24 22:47:31,860] [Executor] INFO: Executing approved intent: read on workspace/src/utils/utils.py
+[2026-02-24 22:47:33,164] [IntentParser] INFO: Parsing instruction: 'Add docstring to workspace/src/helpers/validators.py'
+[2026-02-24 22:47:33,495] [IntentParser] WARNING: API parse failed ("Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"), using heuristic parser
+[2026-02-24 22:47:35,187] [IntentParser] INFO: Parsing instruction: 'Edit workspace/src/utils/string_utils.py'
+[2026-02-24 22:47:35,531] [IntentParser] WARNING: API parse failed ("Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"), using heuristic parser
