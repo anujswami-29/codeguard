@@ -175,4 +175,4 @@ agent.handle("Delete workspace/src/utils/math_utils.py")
 
 ## 👥 Team
 
-ARMORIQ x OpenClaw Hackathon 2025
+TECH FUSIONS x OpenClaw Hackathon 2025
