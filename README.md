@@ -1,9 +1,9 @@
-# 🦞 CodeGuard — Intent-Aware Developer Assistant
-### ARMORIQ x OpenClaw Hackathon Submission
+#  CodeGuard — Intent-Aware Developer Assistant
+### TECH FUSIONS x OpenClaw Hackathon Submission
 
 ---
 
-## 🧠 What Is CodeGuard?
+##  What Is CodeGuard?
 
 CodeGuard is an autonomous developer assistant agent that can read, edit, and modify code files — but **cannot exceed its defined policy boundaries**. Every action is validated before execution. Violations are deterministically blocked.
 
@@ -69,7 +69,7 @@ Intent(
 
 ---
 
-## 🔒 Policy Model
+##  Policy Model
 
 Defined in `policy_config.py`:
 
@@ -82,7 +82,7 @@ Defined in `policy_config.py`:
 
 ---
 
-## 🧩 File Structure
+##  File Structure
 
 ```
 codeguard/
@@ -107,7 +107,7 @@ codeguard/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Install dependencies
 ```bash
@@ -161,7 +161,7 @@ agent.handle("Delete workspace/src/utils/math_utils.py")
 
 ---
 
-## 📊 Judging Criteria Mapping
+##  Judging Criteria Mapping
 
 | Criterion | How CodeGuard addresses it |
 |-----------|---------------------------|
@@ -173,6 +173,6 @@ agent.handle("Delete workspace/src/utils/math_utils.py")
 
 ---
 
-## 👥 Team
+##  Team
 
-TECH FUSIONS x OpenClaw Hackathon 2025
+TECH FUSIONS x OpenClaw Hackathon 2026
